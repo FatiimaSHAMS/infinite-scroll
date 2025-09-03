@@ -1,0 +1,2 @@
+# infinite-scroll
+A responsive web application that fetches random images from the Unsplash API and implements an infinite scroll feature. As users scroll down the page, more images are automatically loaded, creating a seamless browsing experience.
